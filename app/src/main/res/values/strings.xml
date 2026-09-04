@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Финансов мениджър</string>
+    <string name="nav_dashboard">Начало</string>
+    <string name="nav_add">Добави</string>
+    <string name="label_transactions">Транзакции</string>
+    <string name="type_expense">Разход</string>
+    <string name="type_income">Приход</string>
+    <string name="hint_amount">Сума</string>
+    <string name="hint_note">Бележка</string>
+    <string name="action_save">Запис</string>
+    <string name="transaction_saved">Транзакцията е записана</string>
+    <string name="label_balance">Текущ баланс</string>
+    <string name="label_income">Приходи</string>
+    <string name="label_expense">Разходи</string>
+    <string name="placeholder_balance">0.00 лв.</string>
+    <string name="placeholder_income">0.00 лв.</string>
+    <string name="placeholder_expense">0.00 лв.</string>
+    <string name="dashboard_empty">Няма транзакции</string>
+    <string name="dashboard_recent_count">Транзакции: %1$d</string>
+</resources>

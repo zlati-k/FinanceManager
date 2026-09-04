@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_primary">#90CAF9</color>
+    <color name="md_theme_on_primary">#0D47A1</color>
+    <color name="md_theme_background">#121212</color>
+    <color name="md_theme_on_background">#EEEEEE</color>
+    <color name="md_theme_surface">#121212</color>
+    <color name="md_theme_on_surface">#EEEEEE</color>
+    <color name="divider">#424242</color>
+    <color name="income">#81C784</color>
+    <color name="expense">#EF9A9A</color>
+    <color name="launcher_background">#0D47A1</color>
+</resources>
