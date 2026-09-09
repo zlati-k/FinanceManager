@@ -57,6 +57,6 @@
 
 ## APK
 
-Готова debug APK се намира в:
+Готов APK файл се намира в:
 
-`docs/apk/FinanceManager-debug.apk`
+`docs/apk/app-debug.apk`
